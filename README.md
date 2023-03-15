@@ -7,7 +7,7 @@
  
 What is Army Pose Classification? 
 
-*The application uses pose estimation technology, specifically Mediapipe, to identify and classify poses.
+* The application uses pose estimation technology, specifically Mediapipe, to identify and classify poses.
 *It is designed to help users practice army drills, particularly those that involve specific poses such as the salute.
 *The application provides automated checking of poses, allowing users to receive feedback on their form and accuracy.
 *By providing automated checking, the application enables more users to practice their drills, as they do not need to rely on an instructor or partner to provide feedback.
