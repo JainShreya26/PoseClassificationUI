@@ -23,4 +23,4 @@ What is Army Pose Classification App?
 | Atharva Parikh | [Atharva's github](https://github.com/aaparikh) |
 | Shreya Jain | [Shreya's github](https://github.com/JainShreya26) |
 
-| <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%201.png" width ="700" height="500"/> | <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%202.png" /> |
+| <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%201.png" width ="700" height="500"/> | <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%202.png" width="300" height="300"/> |
