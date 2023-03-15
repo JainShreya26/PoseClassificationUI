@@ -1,7 +1,9 @@
 # PoseClassificationUI
 
-### Figma Design Link:
-### Figma Prototype link: 
+### Figma Design Link: <a href ="https://www.figma.com/file/k9Ay1pNSvj5SZWzLJAvklt/Untitled?node-id=0%3A1&t=A0IVU4n284oGLb1i-1"> Click here </a>
+### Figma Prototype link: <a href ="https://www.figma.com/proto/k9Ay1pNSvj5SZWzLJAvklt/Untitled?node-id=10%3A44&scaling=contain&page-id=0%3A1&starting-point-node-id=10%3A44"> Click here </a>
+
+(Check out Prototype link for better understanding. Every button is clickable and linked to corresponding pages.)
 
 <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%2010.png" />
  
