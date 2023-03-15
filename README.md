@@ -17,4 +17,4 @@ What is Army Pose Classification App?
 * The application may also include educational resources on proper form and technique for different army drills and poses.
 * The application could potentially be used by the military as a training tool, as it provides a scalable and efficient way to monitor and improve the skills of soldiers in training.
 
-<img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%2010.png](https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%201.png)" />
+<img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%201.png" />
