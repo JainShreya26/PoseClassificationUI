@@ -5,7 +5,7 @@
 
 <img src = "https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%2010.png" />
  
-What is Army Pose Classification? 
+What is Army Pose Classification App? 
 
 * The application uses pose estimation technology, specifically Mediapipe, to identify and classify poses.
 * It is designed to help users practice army drills, particularly those that involve specific poses such as the salute.
@@ -16,3 +16,5 @@ What is Army Pose Classification?
 * Users may be able to track their progress over time, allowing them to see improvements in their form and accuracy.
 * The application may also include educational resources on proper form and technique for different army drills and poses.
 * The application could potentially be used by the military as a training tool, as it provides a scalable and efficient way to monitor and improve the skills of soldiers in training.
+
+<img src = "[https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%2010.png](https://github.com/JainShreya26/PoseClassificationUI/blob/main/UI-designs/TV%20-%201.png)" />
